@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "name":"Ankita",
+        "course":"BSC.CSIT"
+    },
+    {
+        "id":2,
+        "name":"Anup",
+        "course":"Science" 
+    }
+]
